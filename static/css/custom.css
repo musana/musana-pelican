@@ -1,0 +1,123 @@
+html body {
+color:black;
+}
+
+.span12 ul.list-all-articles li, ul.list-all-articles li {
+border-bottom:none !important;
+margin-bottom:30px;
+
+}
+
+ul.list-all-articles li time{
+padding-top:3px;
+}
+
+.anasayfa {
+margin-top:15%;
+}
+
+
+.article-content ul.list-of-tags{
+
+list-style-type:none;
+
+
+}
+
+li.makale-bilgi{
+margin-left:25px;
+color:#A42929;
+}
+
+
+.article-content ul.tags-in-article li {
+line-height:18px;
+
+}
+
+.article-content ul.tags-in-article{
+background-color:#f1f1f1;
+font-size:0.9em;
+margin-top:-20px;
+border-top:3px solid #11aadd;
+border-bottom:1px solid #11aadd;
+}
+
+.list-of-tags a {
+line-height:0px;
+border:none;
+padding:1px 2px 1px 2px;
+
+}
+
+ul.list-of-tags li.etiket{
+margin:0px 1px;
+}
+
+.list-of-tags.tags-in-article li {
+	display: inline-block;
+}
+
+ul.list-of-tags li.etiket a, ul.list-of-tags li a.kategori{
+	color:#1179d2 !important;
+}
+
+ul.list-of-tags li.tag-list{
+float:left;
+}
+
+.toc ul {
+font-size:1em;
+}
+
+.icindekiler .toc ul, .icindekiler .toc ol {
+	margin: 0px 0px 5px 12px;
+
+}
+
+.icindekiler {
+	padding: 3px;
+	border:2px dashed #b5cdf6;
+	font-size:11px;
+	font-family:'Source Sans Pro'
+}
+
+.table-of-content .toc li {
+	line-height: 17px;
+	font-size:11px;
+}
+
+.icindekiler h4 {
+	border-bottom: 1px solid rgb(180, 185, 192);
+	margin-bottom: 3px;
+	padding-bottom: 3px;
+}
+
+#page-top {
+	position: fixed;
+	bottom: 17px;
+	right: 8px;
+	font-size:2em;
+	font-weight: bold;
+}
+
+a#page-top{
+	color:rgb(255, 0, 45);
+}
+
+.youtube-video {
+	position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;
+}
+
+.youtube-video iframe, .youtube-video object, .youtube-video embed {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+
