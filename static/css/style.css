@@ -78,6 +78,7 @@ padding-right:10px;
     background-color:rgb(210, 234, 248);
     font-family:Source Sans Pro;
     border-radius:3px 3px 3px 3px;
+    margin-top:-20px;
 }
 
 td.code .highlight pre {
@@ -92,6 +93,7 @@ td.code {
     border-radius:3px 0px 0px 3px;
     color:rgb(101,123,131);
     background-color:rgb(238,232,213);
+    margin-top:-20px;
 }
 
 /* Tags */
@@ -164,6 +166,7 @@ article p a:hover, article ol a:hover, article div.article-content ul:not(.artic
     line-height: 1.4em;
     margin-top:3px;
    /* margin:20px 0px 20px 0px; */
+    margin-bottom:25px
 }
 
 .article-content blockquote {
